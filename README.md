@@ -7,7 +7,7 @@ A modern, responsive company website developed for **BTEC SERVICE PVT. LTD.**, s
 
 ## 🌐 Live Preview
 
-> *Add your deployed link here once hosted*
+> 
 https://btecservice.co.in/
 
 ---
